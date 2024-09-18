@@ -8,7 +8,7 @@
 - [x] Segundo: Criar um Repositório
 - [x] Terceiro: Adicionar um README
 - [x] Quarto: Utilizar o GitHub.dev
-- [X] Quinto: Adicionar um Colaborador
-- [ ] Sexto: Clonar para Repositório Local
-- [ ] Sétimo: Realizar Alterações
-- [ ] Oitavo: Criar Branches
+- [x] Quinto: Adicionar um Colaborador
+- [x] Sexto: Clonar para Repositório Local
+- [x] Sétimo: Realizar Alterações
+- [x] Oitavo: Criar Branches
